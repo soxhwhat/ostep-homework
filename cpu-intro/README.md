@@ -38,7 +38,10 @@ Options:
   -h, --help            show this help message and exit
   -s SEED, --seed=SEED  the random seed
   -l PROCESS_LIST, --processlist=PROCESS_LIST
-                        a comma-separated list of processes to run, in the
+           
+
+
+             a comma-separated list of processes to run, in the
                         form X1:Y1,X2:Y2,... where X is the number of
                         instructions that process should run, and Y the
                         chances (from 0 to 100) that an instruction will use
